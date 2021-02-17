@@ -43,7 +43,7 @@ body {
 
 .col--left {
   background-color: var(--color-graydove);
-  color: var(--color-white);
+  color: var(--color-graymidnight);
 }
 
 h1 {
